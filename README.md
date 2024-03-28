@@ -1,8 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Anmol 😊</h1>
-<h3 align="center">I'm a passionate Data Science and Machine Learning enthusiast from India, dedicated to leveraging data-driven insights to solve real-world problems. Here's a glimpse of my professional journey ✨👨🏻‍💻:</h3>
-
-<img align="center" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*08Ge7j9DdoWx1KjA.gif" />
+<h4 align="center">I'm a passionate Data Science and Machine Learning enthusiast from India, dedicated to leveraging data-driven insights to solve real-world problems. Here's a glimpse of my professional journey ✨👨🏻‍💻:</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolgupta01&label=Profile%20views&color=0e75b6&style=flat" alt="anmolgupta01" /> </p>
 
